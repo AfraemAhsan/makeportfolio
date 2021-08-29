@@ -13,7 +13,7 @@ function App() {
               <SingleQuestion key={question.id} {...question}></SingleQuestion>
             );
           })}
-          https://github.com/AfraemAhsan/makeportfolio.git
+          
         </section>
       </div>
     </main>
